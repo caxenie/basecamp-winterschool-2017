@@ -1,0 +1,2 @@
+# basecamp-winterschool-2017
+BaseCamp is a DATA SCIENCE TRAINING PROGRAM for talented people during which they will work on your data project. All steps are supervised by experienced mentors, who assure the best quality results. Once the participants graduate from BaseCamp they are ready to be hired. Hiring a person, who has already worked on your problem will facilitate your search and minimize your on-boarding costs.
